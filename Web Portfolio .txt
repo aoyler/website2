@@ -1,0 +1,65 @@
+<!DOCTYPE html>  
+<htnml class=""> 
+   <head> 
+      <link rel="stylesheet" type="text/css" href="mystyle.css.txt" 
+      <title> Trinity University </title>  
+   </head>  
+
+<body data-gr-c-s-loaded="true"> 
+  <div style="height: 900px; width 180px; background-color: #add8e6; padding-right:  30px; padding-left: 20px; padding-top: 20px; float: left; margin: 0. 10px 0 10px; color: #000000;font-size: 14px">=$0
+    <strong Contact Information </strong> = $0 
+    <p> "Acacia Oyler"   
+         <br> "Trinity University"  
+        <br> "P.O. Box 397"=is $0
+         <br> "San Antonio, TX 78212" 
+         <br> "aoyler@trinity.edu" 
+          <br> 
+         <br> 
+          <pr></pr> 
+          <hr> 
+  <strong> navigation</strong>  
+   <br> 
+    <p>
+    <a href="https://sites.google.com/a/trinity.edu/ao-web-portfolio/"</a>  
+       <br>
+    <a href="https://sites.google.com/a/trinity.edu/ao-web-portfolio/infographic/graphics"</a> 
+       <br> 
+    <a href="https://sites.google.com/a/trinity.edu/ao-web-portfolio/infographic"</a>   
+        <br>  
+    <a href="https://sites.google.com/a/trinity.edu/ao-web-portfolio/infographic/graphics/spreadsheet-with-map/resume"</a>    
+       <br> 
+    <a href= "https://sites.google.com/a/trinity.edu/ao-web-portfolio/infographic/graphics/spreadsheet-with-map"</a>
+       </p>  
+    <p></p>  
+     </div> 
+   <h2> Trinity University</h2> 
+
+<a href="http:/trinity.edu">Trinity University</a> "is a practice Liberal arts university located in the heart of the historic city, San Antonio. It's campus is located in the Monte Vista Historic District, and is only six minutes away from the San Antonio International Airport. There are approximately 2400 undergraduate students, who have the option of 49 different majors and 61 different minors. 
+<p></p>
+<div style="float: left; margins: 0 10px 10px 10px;"> 
+<img src="TU5D8959-HDR.jpg" style: "width:200px; height:300px">
+<br> 
+ "Photo courtesy of Trinity University" 
+</div>
+<p></p> 
+<p>"Trinity University offers a wonderful education. Students are able to study under excellent professors with a very small student to faculty ratio, meaning they are able to personally learn from their professors."</p>
+
+<p>"Trinity's endowment of $1.29 billion, the 89th largest in the U.S., allows for a successful campus where a variety of diverse programs and opportunities are made available to the students." </p> 
+
+<p>"I originally applied to Trinity University on somewhat of a whim, and only knew it existed because it was close to my home. However, after visiting, and experiencing Nacho Hour, I fell in love with the school and knew it was the place for me." </p> 
+
+<p>"I am interested in majoring in history. History have always appealed to me, and I am looking forward to exploring these two subjects while at Trinity. </p> 
+<ul> 
+  <li> 
+   <a> href="https://new.trinity.edu/academics/departments/history"  </a>
+  </li>
+  <li> 
+   <a href="https://www.historians.org/publications-and-directories/perspectives-on-history/april-2017/history-is-not-a-useless-major-fighting-myths-with-data"</a> 
+  </li>
+ </ul> 
+   <p style="color: black;">
+   <em> "Important Information: This was created in HTML to demonstrate my understanding of HTML"</em> 
+   </p>
+   </body> 
+</html>
+   

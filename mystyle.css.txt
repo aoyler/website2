@@ -1,0 +1,18 @@
+Ul {
+     List-style-type: none; 
+     Margin: 0 
+     Padding:0} 
+a{ 
+        Color: #00000000
+         Text-decoration: nine: 
+}
+Body{
+	background-color: white
+	background-image: url("seamless-pattern_1159-5086.jpg");  
+	font-family:"; 
+	font-size: ; 
+	color: #000000; 
+} 
+h2{color:black; 
+Font-size: 24px; 
+}
